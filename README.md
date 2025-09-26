@@ -15,18 +15,18 @@ It can be tricky to predict which teams would win the Stanley Cup since there ha
 
 ## Methodology
 1. Data collection & wrangling using Excel Power Query:
-- [Excel Dataset File](https://github.com/simonhsieh999/NHL-Stanley-Cup-Winners-Analysis-/blob/main/NHL_Github/NHL_Dataset.xlsx)
+- [Excel Dataset File](https://github.com/simonhsieh999/NHL-Stanley-Cup-Winners-Analysis/blob/main/NHL_Dataset.xlsx)
 - Downloaded the regular season and playoff datasets CSV files (2005-06 to 2024-25) from the official NHL website (http://NHL.com), and imported the files onto Excel Power Query.
 - Cleaned, merged, and transformed the datasets.
 - Added new columns like "Season Type", "Playoff Result", and "Cup Winner". Also created new custom metrics such as the grit index (consisting of the grit metrics hits, blocked shots, and takeaways) and champion profile score (consisting of playoff metrics weighted by importance).
 2. Data analysis using SQL:
-- [SQL File](https://github.com/simonhsieh999/NHL-Stanley-Cup-Winners-Analysis-/blob/main/NHL_Github/NHL_SQL_Codes.sql)
+- [SQL File](https://github.com/simonhsieh999/NHL-Stanley-Cup-Winners-Analysis/blob/main/NHL_SQL_Codes.sql)
 - Imported the cleaned dataset onto SQL.
 - Conducted a comparison of the key metrics between Cup winners and other playoff teams.
 - Calculated deltas in team stats from regular season to playoffs.
 - Calculated the correlations between the key metrics.
 - Computed the rankings of the key metrics of Cup winning teams.
-3. Dashboard creation using Power BI ([Power BI File Link](https://github.com/simonhsieh999/NHL-Stanley-Cup-Winners-Analysis-/blob/main/NHL_Github/NHL%20Project%20Power%20BI.pbix)). Built a 6-page Power BI report with:
+3. Dashboard creation using Power BI ([Power BI File Link](https://github.com/simonhsieh999/NHL-Stanley-Cup-Winners-Analysis/blob/main/NHL%20Project%20Power%20BI.pbix)). Built a 6-page Power BI report with:
 - An executive summary
 - Regular season vs playoff performance
 - Playoff collapses & underdog cup winners
@@ -58,4 +58,5 @@ It can be tricky to predict which teams would win the Stanley Cup since there ha
 - In order to improve this analysis even further, we could:
 - Do an analysis on player performance to identify the players who made a big impact in winning the Stanley Cup, and to figure out the traits of a player necessary to improve the chances of winning the Stanley Cup
 - Investigate the type of successful coaching systems
+
 - Investigate how management manages the salary cap to ice a successful team
