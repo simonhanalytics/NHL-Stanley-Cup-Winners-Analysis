@@ -44,7 +44,7 @@ It can be tricky to predict which teams would win the Stanley Cup since there ha
 
 - SQL: CTEs, joins, cases, aggregate functions, windows functions, correlation functions
   
- <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/dd2a82cb-e06f-437d-a4a7-d81af06ab63b" />
+ <img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/dd2a82cb-e06f-437d-a4a7-d81af06ab63b" />
 
 - Power BI: Multi-page dashboards, DAX measures, slicers, buttons, charts (line, column, bar, matrices, scatterplots)
 
@@ -70,6 +70,7 @@ It can be tricky to predict which teams would win the Stanley Cup since there ha
 - Investigate the type of successful coaching systems
 
 - Investigate how management manages the salary cap to ice a successful team
+
 
 
 
