@@ -39,9 +39,13 @@ It can be tricky to predict which teams would win the Stanley Cup since there ha
 
 ## Skills
 - Excel: Power Query, data cleaning, data transforming, and data wrangling
-  
+ <img width="2679" height="1481" alt="image" src="https://github.com/user-attachments/assets/2dd14901-8d0a-418f-b567-abd8adc2a384" />
+
 - SQL: CTEs, joins, cases, aggregate functions, windows functions, correlation functions
+  <img width="1089" height="1247" alt="image" src="https://github.com/user-attachments/assets/dd2a82cb-e06f-437d-a4a7-d81af06ab63b" />
+
 - Power BI: Multi-page dashboards, DAX measures, slicers, buttons, charts (line, column, bar, matrices, scatterplots)
+<img width="1849" height="1043" alt="image" src="https://github.com/user-attachments/assets/7f98e897-adec-47fb-904f-2e5abd288f69" />
 
 
 ## Results
@@ -63,4 +67,5 @@ It can be tricky to predict which teams would win the Stanley Cup since there ha
 - Investigate the type of successful coaching systems
 
 - Investigate how management manages the salary cap to ice a successful team
+
 
