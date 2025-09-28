@@ -2,7 +2,7 @@
 
 ## Executive Summary
 This project analyzes 20 seasons of NHL Stanley Cup winning teams (2005-06 to 2024-25) to discover what common factors set Stanley Cup winners apart from other teams. Using datasets from the official NHL website, I focused on the hockey metrics GF/GP, GA/GP, PP%, PK%, Corsi, and Save%, as well as built custom metrics like the grit index and a champion profile score to identify patterns that consistently appear in Stanley Cup winning teams.
-<img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/35a1837c-f5a4-4195-9d3d-f236d6ea6e31" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/35a1837c-f5a4-4195-9d3d-f236d6ea6e31" />
 
 
 Using Excel Power Query for data wrangling, SQL for data analysis, and Power BI to build dynamic dashboards, I discovered that having a high goal differential is the most important factor in winning the Stanley Cup. In order to achieve that, teams need to have a good balance of offense and defense. Also, teams in the playoffs tend to have a higher grit index than in the regular season, which shows that the team's level of grit is necessary in the playoffs. However, the grit index is not the difference maker in winning the Stanley Cup. It is mainly the defensive performance.
@@ -39,13 +39,13 @@ It can be tricky to predict which teams would win the Stanley Cup since there ha
 
 ## Skills
 - Excel: Power Query, data cleaning, data transforming, and data wrangling
- <img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/2dd14901-8d0a-418f-b567-abd8adc2a384" />
+ <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/2dd14901-8d0a-418f-b567-abd8adc2a384" />
 
 - SQL: CTEs, joins, cases, aggregate functions, windows functions, correlation functions
-  <img width="800" height="900" alt="image" src="https://github.com/user-attachments/assets/dd2a82cb-e06f-437d-a4a7-d81af06ab63b" />
+  <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/dd2a82cb-e06f-437d-a4a7-d81af06ab63b" />
 
 - Power BI: Multi-page dashboards, DAX measures, slicers, buttons, charts (line, column, bar, matrices, scatterplots)
-<img width="1000" height="800" alt="image" src="https://github.com/user-attachments/assets/7f98e897-adec-47fb-904f-2e5abd288f69" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/7f98e897-adec-47fb-904f-2e5abd288f69" />
 
 
 ## Results
@@ -67,6 +67,7 @@ It can be tricky to predict which teams would win the Stanley Cup since there ha
 - Investigate the type of successful coaching systems
 
 - Investigate how management manages the salary cap to ice a successful team
+
 
 
 
