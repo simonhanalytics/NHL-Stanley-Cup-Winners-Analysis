@@ -30,7 +30,7 @@ There have been teams with a high number of regular season points that end up ha
 - Computed the rankings of the key metrics of Cup winning teams using window functions.
 3. Dashboard creation using Power BI
 - [Power BI File Link](https://github.com/simonhsieh999/NHL-Stanley-Cup-Winners-Analysis/blob/main/NHL%20Project%20Power%20BI.pbix).
-- Built a 6-page Power BI report with:
+- Built a multi-page interactive dashboard with the following pages:
   - An executive summary
   - Regular season vs playoff performance
   - Playoff collapses & underdog cup winners
@@ -72,6 +72,7 @@ There have been teams with a high number of regular season points that end up ha
 - Investigate the type of successful coaching systems
 
 - Investigate how management manages the salary cap to ice a successful team
+
 
 
 
