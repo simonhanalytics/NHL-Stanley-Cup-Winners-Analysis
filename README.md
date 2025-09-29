@@ -61,16 +61,17 @@ There have been teams with a high number of regular season points that end up ha
 
 
 ## Recommendations
-- In order for teams to improve their chances of winning the Stanley Cup, they should:
+In order for teams to improve their chances of winning the Stanley Cup, they should:
   - Focus on having a good balance of scoring and defense/goaltending in order to have a high goal differential. Good idea to have 2-way forwards and defensemen that can contribute both offensively and defensively
   - Have just enough regular season points to get into the playoffs since all playoff teams of different point levels have a good chance of winning the Stanley Cup
   - Have enough grit to withstand the playoff intensity
 
 ## Next Steps
-- In order to improve this analysis even further, we could:
+In order to improve this analysis even further, we could:
   - Do an analysis on player performance to identify the players who made a big impact in winning the Stanley Cup, and to figure out the traits of a player necessary to improve the chances of winning the Stanley Cup
   - Investigate the type of successful coaching systems
   - Investigate how management manages the salary cap to ice a successful team
+
 
 
 
