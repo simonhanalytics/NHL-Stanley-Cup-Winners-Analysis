@@ -29,7 +29,7 @@ There have been teams with a high number of regular season points that end up ha
 - Calculated the correlations between the key metrics.
 - Computed the rankings of the key metrics of Cup winning teams using window functions.
 3. Dashboard creation using Power BI
-- [Power BI File Link](https://github.com/simonhsieh999/NHL-Stanley-Cup-Winners-Analysis/blob/main/NHL%20Project%20Power%20BI.pbix).
+- [Power BI File](https://github.com/simonhsieh999/NHL-Stanley-Cup-Winners-Analysis/blob/main/NHL%20Project%20Power%20BI.pbix).
 - Built a multi-page interactive dashboard with the following pages:
   - An executive summary
   - Regular season vs playoff performance
@@ -72,6 +72,7 @@ To expand and deepen this analysis, we could:
 - Identify the types of players that are most correlated with Stanley Cup wins.
 - Explore coaching system styles used by Stanley Cup winning teams.
 - Analyze how Stanley Cup winning teams manage their salary cap effectively.
+
 
 
 
