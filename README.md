@@ -54,24 +54,24 @@ There have been teams with a high number of regular season points that end up ha
 
 
 ## Results
-- Having a strong regular season performance improves the team's chances of winning the Stanley Cup. However, it is not a guarantee since some teams with a high number of regular season points have faced an early playoff exit, while some playoff teams with an average number of regular season points have won the Stanley Cup.
-- The goal differential is the most important factor for Stanley Cup teams. Stanley Cup winning teams have a good balance of scoring and defensive/goaltending, and are ranked top 5 of all playoff teams in those stats.
-- Teams in the playoffs improve their grit index due to the level of intensity, which shows that the grit index is necessary to be successful in the playoffs and win the Stanley Cup. However, it is not the difference maker with all teams in general improving their grit index.
-- The key component of the grit index for Stanley Cup winners is takeaways.
+- Regular season success increases the chances of playoff success, but does not guarantee a Stanley Cup win. Some teams with a high regular season point total ended up having an early playoff elimination, while some average-seeded playoff teams ended up winning the Stanley Cup.
+- The goal differential is the most important factor for Stanley Cup teams. Stanley Cup winning teams have a good balance of scoring, defense, and goaltending, and are ranked top 5 of all playoff teams in those stats.
+- The grit index increases during the playoffs for most teams, reflecting the rise in intensity and the importance of grit in the playoffs. However, grit alone is not the difference maker for successful teams since almost all teams improve their grit level during the playoffs.
+- The most impactful component of the grit index for Stanley Cup winners is takeaways.
 
 
 ## Recommendations
 - In order for teams to improve their chances of winning the Stanley Cup, they should:
-- Focus on having a good balance of scoring and defense/goaltending in order to have a high goal differential. Good idea to have 2-way forwards and defensemen that can contribute both offensively and defensively
-- Have just enough regular season points to get into the playoffs since all playoff teams of different point levels have a good chance of winning the Stanley Cup
-- Have enough grit to withstand the playoff intensity
+  - Focus on having a good balance of scoring and defense/goaltending in order to have a high goal differential. Good idea to have 2-way forwards and defensemen that can contribute both offensively and defensively
+  - Have just enough regular season points to get into the playoffs since all playoff teams of different point levels have a good chance of winning the Stanley Cup
+  - Have enough grit to withstand the playoff intensity
 
 ## Next Steps
 - In order to improve this analysis even further, we could:
-- Do an analysis on player performance to identify the players who made a big impact in winning the Stanley Cup, and to figure out the traits of a player necessary to improve the chances of winning the Stanley Cup
-- Investigate the type of successful coaching systems
+  - Do an analysis on player performance to identify the players who made a big impact in winning the Stanley Cup, and to figure out the traits of a player necessary to improve the chances of winning the Stanley Cup
+  - Investigate the type of successful coaching systems
+  - Investigate how management manages the salary cap to ice a successful team
 
-- Investigate how management manages the salary cap to ice a successful team
 
 
 
