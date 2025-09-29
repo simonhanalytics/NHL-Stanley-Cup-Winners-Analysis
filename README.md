@@ -24,7 +24,7 @@ There have been teams with a high number of regular season points that end up ha
 2. Data analysis using SQL:
 - [SQL File](https://github.com/simonhsieh999/NHL-Stanley-Cup-Winners-Analysis/blob/main/NHL_SQL_Codes.sql)
 - Imported the cleaned Excel dataset onto SQL.
-- Compared key metrics between StanleyCup winners and non-winning playoff teams using aggregate functions.
+- Compared key metrics between Stanley Cup winners and non-winning playoff teams using aggregate functions.
 - Calculated deltas in team stats from regular season to playoffs.
 - Calculated the correlations between the key metrics.
 - Computed the rankings of the key metrics of Cup winning teams using window functions.
@@ -72,6 +72,7 @@ To expand and deepen this analysis, we could:
 - Identify the types of players that are most correlated with Stanley Cup wins.
 - Explore coaching system styles used by Stanley Cup winning teams.
 - Analyze how Stanley Cup winning teams manage their salary cap effectively.
+
 
 
 
