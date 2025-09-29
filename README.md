@@ -3,7 +3,7 @@
 ## Executive Summary
 This project analyzes NHL Stanley Cup winning teams over the past 20 seasons (2005-06 to 2024-25) to identify the key factors that separate Stanley Cup winners from other teams. Using datasets from the official NHL website, I focused on the hockey metrics GF/GP, GA/GP, PP%, PK%, Corsi, and Save%, as well as built custom metrics like the grit index and a champion profile score to uncover patterns that consistently appear in Stanley Cup winning teams.
 
-Using Excel Power Query for data wrangling, SQL for data analysis, and Power BI to build dynamic dashboards, I discovered that having a high goal differential is the most important factor in winning the Stanley Cup. In order to achieve that, teams need to have a good balance of offense and defense. Also, playoff teams improved their grit level in the playoffs, which shows the importance of grit in the playoffs. However, the grit index is not the difference maker in winning the Stanley Cup. It is mainly the goal differential.
+Using Excel Power Query for data wrangling, SQL for data analysis, and Power BI to build dynamic dashboards, I discovered that having a high goal differential is the most important factor in winning the Stanley Cup. In order to achieve that, teams need to have a good balance of offense and defense. Also, playoff teams increase their grit index in the playoffs, which shows the importance of grit in the playoffs. However, the grit index is not the difference maker in winning the Stanley Cup. It is mainly the goal differential.
 
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/35a1837c-f5a4-4195-9d3d-f236d6ea6e31" />
 
@@ -72,6 +72,7 @@ To expand and deepen this analysis, we could:
 - Identify the types of players that are most correlated with Stanley Cup wins.
 - Explore coaching system styles used by Stanley Cup winning teams.
 - Analyze how Stanley Cup winning teams manage their salary cap effectively.
+
 
 
 
